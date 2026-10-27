@@ -1,0 +1,6 @@
+{
+  "name": "ChemMarket Intelligence | Report Archive",
+  "description": "석유화학 시황 · 가격 · 인사이트 | HTML 보고서 보관소",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
